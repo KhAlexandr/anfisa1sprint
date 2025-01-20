@@ -161,3 +161,6 @@ precode/
 user/
 
 notion
+
+.sqllite
+.sqlite3
